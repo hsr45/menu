@@ -1,0 +1,30 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+h1, h2, h3 {
+  color: #333;
+}
+.category {
+  margin-bottom: 40px;
+}
+.subcategory {
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+.item {
+  margin-left: 40px;
+  display: flex;
+  justify-content: space-between;
+  max-width: 500px;
+  padding: 5px 0;
+}
+.item-name {
+  font-weight: 500;
+}
+.price {
+  color: #666;
+}
